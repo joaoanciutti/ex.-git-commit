@@ -1,1 +1,2 @@
-# Teste exercicio
+# exercicio
+Atividade-Criacao do Projeto GitHub
